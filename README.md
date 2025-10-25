@@ -59,9 +59,9 @@ Wireframing provides several advantages in the software development process. It 
 
 ### Key Benefits:
 
-Improves Communication: Wireframes help communicate the intended layout and functionality to developers, designers, and clients. Everyone can visualize how the system will work before development starts.
+- Improves Communication: Wireframes help communicate the intended layout and functionality to developers, designers, and clients. Everyone can visualize how the system will work before development starts.
 
-- Example: A designer can show the placement of navigation menus and buttons, ensuring the developer implements them correctly.
+-- Example: A designer can show the placement of navigation menus and buttons, ensuring the developer implements them correctly.
 
 Reduces Development Rework: By identifying design and usability issues early, wireframes prevent costly changes later in the development cycle.
 
@@ -78,9 +78,9 @@ Designing an e-learning platform, the initial wireframes revealed that students 
 
 ### How it was resolved:
 
-The design team revised the wireframe to include a dashboard view, allowing students to access courses, assignments, and progress from a single page.
+- The design team revised the wireframe to include a dashboard view, allowing students to access courses, assignments, and progress from a single page.
 
-This change simplified navigation and improved the overall user experience.
+- This change simplified navigation and improved the overall user experience.
 
 ### Impact on the final product:
 
