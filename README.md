@@ -1,4 +1,4 @@
-# wireframing
+# Wireframing
 what wireframing is and its importance in the design process
 
 # Introduction 
@@ -27,3 +27,27 @@ Low-Fidelity : Simple sketches or basic digital layouts focusing on overall stru
 High-fidelity Wireframes : More detailed and refined versions, It is typically used at the end of a design process often closer to the final design, including more specific layout and design elements.
 
 A High-Fidelity Wireframe is used in the Airbnb project.
+
+## Wireframing Tools
+There are several tools available for creating wireframes, Some popular tools include:
+
+
+- Figma 
+Figma is one of the most popular tools for wireframing and UI design. It allows real-time collaboration, making it ideal for teams.
+- Adobe XD – Great for both wireframing and interactive prototyping.
+
+- Sketch – A vector-based design tool mainly for macOS users.
+
+- Balsamiq – Focuses on low-fidelity, hand-drawn-style wireframes for quick idea testing.
+
+### Recommended Tool:
+
+Figma is recommended because it combines simplicity, collaboration, and flexibility, allowing designers to quickly go from concept to prototype.
+
+#### Key Features:
+
+- Cloud-based, accessible from any device
+- Real-time collaboration and commenting
+- Vector-based design tools
+- Reusable components and design systems
+- Easy transition from wireframe to prototype
