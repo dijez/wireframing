@@ -70,3 +70,23 @@ Clarifies Requirements: Wireframes transform vague ideas into concrete visual pl
 Speeds Up the Design Process: With a visual layout, teams can make quick changes to structure and flow before spending time on code or visuals.
 
 Enhances Collaboration: Teams can review, comment, and iterate on wireframes collaboratively using tools like Figma.
+
+
+## Wireframing in Practice
+
+Designing an e-learning platform, the initial wireframes revealed that students would need to navigate through multiple pages to access their courses. This was identified as a usability issue during the wireframing review.
+
+### How it was resolved:
+
+The design team revised the wireframe to include a dashboard view, allowing students to access courses, assignments, and progress from a single page.
+
+This change simplified navigation and improved the overall user experience.
+
+### Impact on the final product:
+
+- The final design became more intuitive and user-friendly.
+
+- Development was more efficient since all functionality had been clearly defined through the wireframes before coding began.
+
+### Conclusion
+Wireframing plays a vital role in ensuring a user-centered design. By allowing teams to test ideas visually and detect problems early, it helps create products that are both functional and enjoyable to use.
